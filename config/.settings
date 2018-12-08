@@ -1,0 +1,17 @@
+{
+    "projectName": "Demo Project",
+    "username": "innovate@marlabs.com",
+    "id": "6d137460-fabb-11e8-b12c-f736409888f7",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na85.salesforce.com",
+    "workspace": "D:\\IDE\\Sublime Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
